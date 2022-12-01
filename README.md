@@ -26,3 +26,5 @@
  
  5. Open the following link on your browser
  http://localhost:7000/api-docs/
+ 
+ ![Flowchart](https://github.com/TheInVision/My-library/blob/master/Flowchart_Library_Model.png)
